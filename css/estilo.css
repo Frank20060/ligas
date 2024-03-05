@@ -1,0 +1,160 @@
+
+/**BASICOS **/
+
+body{
+    background-color: rgb(185, 184, 184);
+}
+
+p, li{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 60px;
+    font-family: Candara;
+}
+h2{
+    font-size: 40px;
+    font-family: Candara;
+}
+a{
+    text-decoration: none;
+}
+
+/*NAVEGADOR*/
+#navegador{
+    display: flex;
+    justify-content: space-between;
+    background-color: dimgray;
+}
+
+nav ul{
+    text-decoration: none;
+    list-style: none;
+
+}
+#inicio{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+}
+#Inicio li{
+    padding: 30px;
+    
+}
+#Inicio li a {
+    color: azure;
+    font-size: 25px;
+}
+#ligas{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+}
+#ligas li{
+    padding: 30px;
+}
+#ligas li a {
+    color: azure;
+    font-size: 25px;
+}
+
+
+
+/*Inicio*/
+
+ol li a {
+    color:rgb(36, 36, 36);
+}
+
+
+/**/
+ul li a {
+    color:rgb(36, 36, 36);
+}
+
+
+
+/**/
+
+#principal{
+    display: flex;
+}
+#logoseriea{
+    padding: 10px;
+    width: 250px;
+}
+#logoliga{
+    padding: 10px;
+    width: 500px;
+}
+#premierlogo{
+    padding: 10px;
+    width: 700px;
+}
+#bundesigalogo{
+    padding: 10px;
+    width: 400px;
+}
+#league1logo{
+    padding: 10px;
+    width: 300px;
+
+}
+
+#grandesligas{
+    padding: 20px;
+    width: 800px;
+}
+
+
+
+/*FOTOS EQUIPOS*/
+
+#juventus{
+    width: 280px;
+}
+#inter{
+    width: 450px;
+}
+#acmilan{
+    width: 250px;
+}
+
+#mancgestercity{
+    width: 400px;
+}
+#liverpool{
+    width: 500px;
+}
+#arsenal{
+    width: 500px;
+}
+
+#marsella{
+    width: 400px;
+}
+#monaco{
+    width: 300px;
+}
+#psg{
+    width: 500px;
+}
+#atletico{
+    width: 400px;
+}
+#madrid{
+    width: 400px;
+}
+#barcelona{
+    width: 400px;
+}
+#bayernmunich{
+    width: 400px;
+}
+#leverkusen{
+    width: 400px;
+}
+#dormund{
+    width: 400px;
+}
